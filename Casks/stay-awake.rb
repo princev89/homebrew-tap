@@ -1,5 +1,5 @@
 cask "stay-awake" do
-  version "1.0.1"
+  version "1.0.2"
   sha256 :no_check
 
   url "https://github.com/princev89/stay-awake/releases/download/v#{version}/Stay.Awake.zip"
